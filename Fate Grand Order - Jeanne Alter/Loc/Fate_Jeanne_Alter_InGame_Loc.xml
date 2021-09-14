@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_InGame_Loc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 6:14:47 PM -->
+<GameData>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_CITY_NAME_ORLEANENT_ALTER" Language="zh_Hans_CN">
+			<Text>憎恨者的奥尔良</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>龙之魔女的野望</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>魔女的奴隶</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FATE_JEANNE_ALTER" Language="zh_Hans_CN">
+			<Text>
+				燃烧，燃烧，所有一切都在燃烧坍塌。[NEWLINE]血肉燃烧的味道，令人悚然的惨叫，[NEWLINE]	每呼吸一次，脏腑就痛苦不已。[NEWLINE][NEWLINE][NEWLINE]每当回忆起这件事，每当回顾起这件事，[NEWLINE]我的脸上就露出了扭曲的笑容。[NEWLINE][NEWLINE]	因为啊，正是这火焰创造了我的形态。[NEWLINE]对我来说，这是墓地，也是摇篮。[NEWLINE][NEWLINE]——来吧，在地狱咆哮吧。[NEWLINE]为诞生的喜悦，为诞生的憎恨，为诞生的绝望，[NEWLINE]凛然咆哮吧！[NEWLINE]
+			</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>可以。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>所以你想干什么？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>哈哈哈哈……身怀罪恶的人啊！和我一起让世界燃烧吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>好啊好啊……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>你再说一遍？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>你惹怒我了！杂种！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>不知死活？好吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>呵呵呵……我看到地狱了……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>好吧好吧，地狱的门不知为我而开，也为你……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>你的城市如此美丽……就差个断头台了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>你把我当垃圾场吗？滚！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>这是我刚刚即兴创作的火刑器……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>放肆！把我当什么？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>不想活就快点说哦，别这么默默蹭蹭。[NEWLINE]（谴责你）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>复仇者，贞德，怎么，不知道我的存在？那你马上就知道了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>哈哈哈哈哈！烧吧烧吧烧吧！！！！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>你的人民很有骨气？希望他们让我杀死的时候也如此。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>打个招呼？呵呵呵……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>杀得好！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FATE_JEANNE_ALTER_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（贞德对您的好感增加了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>懦夫！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FATE_JEANNE_ALTER_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（贞德对您的好感减少了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>可以，让我们一起烧死更多的异端吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>留你一条命，希望你能给我更多的快乐。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>别走啊，我的，猎物，呵呵呵哈哈哈！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>停战吧，无意义的战斗。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>我答应你，只是暂时的……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>现在是不可能的。。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>可不可以让我的龙飞过你那可怜的小城市？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>这群人……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JEANNEENT_ALTER_REASON_ANY" Language="zh_Hans_CN">
+			<Text>魔女的反感</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_NICE_JEANNEENT_ALTER" Language="zh_Hans_CN">
+			<Text>信仰世界和平者……死！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JEANNEENT_ALTER_REASON_ANY" Language="zh_Hans_CN">
+			<Text>魔女的愉悦</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_BAD_JEANNEENT_ALTER" Language="zh_Hans_CN">
+			<Text>憎恨世界一切者……活！</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_TITLE" Language="zh_Hans_CN">
+			<Text>贞德（Alter）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_SUBTITLE" Language="zh_Hans_CN">
+			<Text>充满憎恨的龙之魔女</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_QUOTE" Language="zh_Hans_CN">
+			<Text>需要法夫纳帮你点蜡烛吗？</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>{LOC_LOADING_INFO_LEADER_FATE_JEANNE_ALTER}</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>她是一位战争狂人，请小心。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>不要试图攻击她，否则她会疯狂报复。</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FATE_JEANNE_ALTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>巨龙的声音……</Text>
+		</Row>
+
+
+
+		
+	
+
+
+
+	<Row Tag="LOC_CITY_NAME_ORLEANENT_ALTER" Language="zh_Hant_HK">
+		<Text>憎恨者的奧爾良</Text>
+	</Row>
+
+
+	<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_DESCRIPTION" Language="zh_Hant_HK">
+		<Text>龍之魔女的野望</Text>
+	</Row>
+	<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_ADJECTIVE" Language="zh_Hant_HK">
+		<Text>魔女的奴隸</Text>
+	</Row>
+
+	<Row Tag="LOC_LOADING_INFO_LEADER_FATE_JEANNE_ALTER" Language="zh_Hant_HK">
+		<Text>
+			燃燒，燃燒，所有壹切都在燃燒坍塌。[NEWLINE]血肉燃燒的味道，令人悚然的慘叫，[NEWLINE]	每呼吸壹次，臟腑就痛苦不已。[NEWLINE][NEWLINE][NEWLINE]每當回憶起這件事，每當回顧起這件事，[NEWLINE]我的臉上就露出了扭曲的笑容。[NEWLINE][NEWLINE]	因為啊，正是這火焰創造了我的形態。[NEWLINE]對我來說，這是墓地，也是搖籃。[NEWLINE][NEWLINE]——來吧，在地獄咆哮吧。[NEWLINE]為誕生的喜悅，為誕生的憎恨，為誕生的絕望，[NEWLINE]凜然咆哮吧！[NEWLINE]
+		</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>可以。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>所以妳想幹什麽？</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>哈哈哈哈……身懷罪惡的人啊！和我壹起讓世界燃燒吧！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>好啊好啊……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>妳再說壹遍？</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>妳惹怒我了！雜種！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>不知死活？好吧！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>呵呵呵……我看到地獄了……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>好吧好吧，地獄的門不知為我而開，也為妳……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>妳的城市如此美麗……就差個斷頭臺了。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>妳把我當垃圾場嗎？滾！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>這是我剛剛即興創作的火刑器……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>放肆！把我當什麽？</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>不想活就快點說哦，別這麽默默蹭蹭。[NEWLINE]（譴責妳）</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>復仇者，貞德，怎麽，不知道我的存在？那妳馬上就知道了。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>哈哈哈哈哈！燒吧燒吧燒吧！！！！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>妳的人民很有骨氣？希望他們讓我殺死的時候也如此。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>打個招呼？呵呵呵……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>殺得好！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_KUDO_LEADER_FATE_JEANNE_ALTER_REASON_ANY" Language="zh_Hant_HK">
+		<Text>（貞德對您的好感增加了）</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>懦夫！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_WARNING_LEADER_FATE_JEANNE_ALTER_REASON_ANY" Language="zh_Hant_HK">
+		<Text>（貞德對您的好感減少了）</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>可以，讓我們壹起燒死更多的異端吧！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>留妳壹條命，希望妳能給我更多的快樂。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>別走啊，我的，獵物，呵呵呵哈哈哈！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>停戰吧，無意義的戰鬥。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>我答應妳，只是暫時的……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>現在是不可能的。。</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>可不可以讓我的龍飛過妳那可憐的小城市？</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>這群人……</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="zh_Hant_HK">
+		<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_KUDO_LEADER_JEANNEENT_ALTER_REASON_ANY" Language="zh_Hant_HK">
+		<Text>魔女的反感</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_NICE_JEANNEENT_ALTER" Language="zh_Hant_HK">
+		<Text>信仰世界和平者……死！</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_WARNING_LEADER_JEANNEENT_ALTER_REASON_ANY" Language="zh_Hant_HK">
+		<Text>魔女的愉悅</Text>
+	</Row>
+
+	<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_BAD_JEANNEENT_ALTER" Language="zh_Hant_HK">
+		<Text>憎恨世界壹切者……活！</Text>
+	</Row>
+
+
+
+
+
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_TITLE" Language="zh_Hant_HK">
+		<Text>貞德（Alter）</Text>
+	</Row>
+
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_SUBTITLE" Language="zh_Hant_HK">
+		<Text>充滿憎恨的龍之魔女</Text>
+	</Row>
+
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_QUOTE" Language="zh_Hant_HK">
+		<Text>需要法夫納幫妳點蠟燭嗎？</Text>
+	</Row>
+
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+		<Text>{LOC_LOADING_INFO_LEADER_FATE_JEANNE_ALTER}</Text>
+	</Row>
+
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+		<Text>她是壹位戰爭狂人，請小心。</Text>
+	</Row>
+
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+		<Text>不要試圖攻擊她，否則她會瘋狂報復。</Text>
+	</Row>
+
+
+	<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FATE_JEANNE_ALTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+		<Text>巨龍的聲音……</Text>
+	</Row>
+
+
+
+
+
+		<Row Tag="LOC_CITY_NAME_ORLEANENT_ALTER" Language="en_US">
+			<Text>Hateful Orleans</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_DESCRIPTION" Language="en_US">
+			<Text>The ambition of the Dragon Witch</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_ADJECTIVE" Language="en_US">
+			<Text>Witch slave</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FATE_JEANNE_ALTER" Language="en_US">
+			<Text>Burn, burn, burn and consume anything and everything.[NEWLINE][NEWLINE]The smell of burning flesh, the hideous screaming, everytime I breathe,[NEWLINE]my insides hurts horribly.[NEWLINE]And everytime I try to recall it, everytime I look back,[NEWLINE]my face forms a distorted smile.[NEWLINE]But of course. Just look. This flame has shaped me.[NEWLINE]It is my graveyard, my cradle.[NEWLINE]―――Now, cry in hell.[NEWLINE]Howl at the joy of birth, at the contempt of birth,[NEWLINE]at the despair of birth![NEWLINE]</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Ok.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>So what do you want to do?？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Hahaha... I am a sinful person! Let me burn the world with me! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Ok, okay...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Do you say it again? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> You are angering me! Hybrid! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>I don't know how to live and die? Ok! </Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Hehehe... I saw hell...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Ok, okay, the door to hell is not open for me, but also for you...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Your city is so beautiful... just a guillotine. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Do you treat me as a junkyard? roll! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>This is the firearm I just created improvised...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Let go! What do you like me? </Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>When you don't want to live, hurry up and say, don't be so silent. [NEWLINE] (condemn you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Avenger, Jude, how, don't know my existence? Then you will know right away. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Hahahahaha! Let's burn it and burn it! ! ! ! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Your people are very angry? I hope that they will kill me as well. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Say hello? Hehehe...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Killing well! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FATE_JEANNE_ALTER_REASON_ANY" Language="en_US">
+			<Text>(Jude's affection for you has increased)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Coward! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FATE_JEANNE_ALTER_REASON_ANY" Language="en_US">
+			<Text>(Jude's favor for you is reduced)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Yes, let's burn more heresy! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>Leave you a life, I hope you can give me more happiness. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Don't go, my, prey, hehe hahaha! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Armistice, meaningless battle. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>I promise you, just for the time being...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> is now impossible. . </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text> Can I let my dragon fly over your poor little city? </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>This group of people...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JEANNEENT_ALTER_REASON_ANY" Language="en_US">
+			<Text> Witch's dislike</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_NICE_JEANNEENT_ALTER" Language="en_US">
+			<Text>Faith in the world of peace...death! </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JEANNEENT_ALTER_REASON_ANY" Language="en_US">
+			<Text>The Joy of the Witch</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_BAD_JEANNEENT_ALTER" Language="en_US">
+			<Text>Hate the world everyone...live! </Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_TITLE" Language="en_US">
+			<Text>Alter</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_SUBTITLE" Language="en_US">
+			<Text>The Wrathful Dragon Witch</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_QUOTE" Language="en_US">
+			<Text> Need Frænir to help you light a candle? </Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>{LOC_LOADING_INFO_LEADER_FATE_JEANNE_ALTER}</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>She is a war madman, please be careful. </Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_JEANNE_ALTER_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text> Don't try to attack her, or she will retaliate. </Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FATE_JEANNE_ALTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The sound of the dragon...</Text>
+		</Row>
+
+
+
+
+
+	</LocalizedText>
+	<LocalizedText>
+
+		<Row Tag="LOC_AGENDA_SAINT_ORLEAN_ALTER_NAME" Language="en_US">
+			<Text>No merciful</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAINT_ORLEAN_ALTER_NAME" Language="zh_Hans_CN">
+			<Text>无慈悲者</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAINT_ORLEAN_ALTER_NAME" Language="zh_Hant_HK">
+			<Text>無慈悲者</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_SAINT_ORLEAN_ALTER_DESCRIPTION" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAINT_ORLEAN_ALTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAINT_ORLEAN_ALTER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_JEANNE_ALTER_ANY}</Text>
+		</Row>
+		
+	</LocalizedText>
+	
+
+</GameData>

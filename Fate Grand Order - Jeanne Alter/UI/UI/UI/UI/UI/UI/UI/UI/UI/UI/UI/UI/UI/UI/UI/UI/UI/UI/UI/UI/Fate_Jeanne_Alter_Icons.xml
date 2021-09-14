@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_Icons -->
+
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 12:42:43 PM -->
+
+	<GameData>
+		<IconTextureAtlases>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_32"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_45"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_48"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_50"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_55"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_64"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_80"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_256"/>
+
+
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_22"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_30"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_32"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_36"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_44"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_45"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_48"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_50"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_64"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_80"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_128"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_200"/>
+			<Row Name="ICON_FATE_JEANNE_ALTER_CIV" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FATE_JEANNE_ALTER_CIV_SYMBOL_256"/>
+
+
+
+		</IconTextureAtlases>
+		
+		<IconDefinitions>
+			<Row Name="ICON_LEADER_FATE_JEANNE_ALTER" Atlas="ICON_FATE_JEANNE_ALTER_ATLAS" Index="0"/>
+			<Row Name="ICON_CIVILIZATION_FATE_JEANNE_ALTER" Atlas="ICON_FATE_JEANNE_ALTER_CIV" Index="0"/>
+
+			<Row Name="ICON_DISTRICT_EXECUTION_GROUND" Atlas="ICON_ATLAS_DISTRICTS" Index="1"/>
+			<Row Name="ICON_DISTRICT_EXECUTION_GROUND_FOW" Atlas="ICON_ATLAS_DISTRICTS_FOW" Index="1"/>
+
+
+		</IconDefinitions>
+
+
+	</GameData>

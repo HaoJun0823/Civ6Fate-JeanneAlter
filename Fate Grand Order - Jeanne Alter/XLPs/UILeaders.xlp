@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_FATE_JEANNE_ALTER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FATE_JEANNE_ALTER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_JEANNE_ALTER_NEUTRAL_2"/>
+			<m_ObjectName text="LEADER_FATE_JEANNE_ALTER_NEUTRAL_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_JEANNE_ALTER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FATE_JEANNE_ALTER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_JEANNE_ALTER_BACKGROUND_LOAD"/>
+			<m_ObjectName text="LEADER_FATE_JEANNE_ALTER_BACKGROUND_LOAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Fire"/>
+			<m_ObjectName text="Moment_Fire"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Unit_Fire"/>
+			<m_ObjectName text="Moment_Unit_Fire"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Dragon_Fire"/>
+			<m_ObjectName text="Moment_Dragon_Fire"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

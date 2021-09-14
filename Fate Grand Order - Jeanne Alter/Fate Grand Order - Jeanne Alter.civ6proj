@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_NAME</Name>
+    <Guid>e765825c-d4c0-4661-8798-4cf9a871a67f</Guid>
+    <ProjectGuid>e32905c7-6c56-41a9-8750-60029d248a33</ProjectGuid>
+    <ModVersion>3</ModVersion>
+    <Teaser>LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_TEASER</Teaser>
+    <Description>LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_DESCRIPTION</Description>
+    <Authors>LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_AUTHOR</Authors>
+    <SpecialThanks>LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_THANKS</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>Fate Grand Order - Jeanne Alter</AssemblyName>
+    <RootNamespace>Fate Grand Order - Jeanne Alter</RootNamespace>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_FATE_JEANNE_ALTER,Players:Expansion1_Players::LEADER_FATE_JEANNE_ALTER,Players:Expansion2_Players::LEADER_FATE_JEANNE_ALTER</LeaderPlayable></Criteria><Criteria id="LeaderCriteria_Expansion1"><LeaderPlayable>Players:Expansion1_Players::LEADER_FATE_JEANNE_ALTER</LeaderPlayable><RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse></Criteria></ActionCriteria>]]></ActionCriteriaData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="JeanneAlterData"><File>Config/Fate_Jeanne_Alter_Config.xml</File></UpdateDatabase><UpdateIcons id="JeanneAlterIcon"><File>UI/Fate_Jeanne_Alter_Icons.xml</File></UpdateIcons><UpdateArt id="JeanneAlterArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="JeanneAlterText"><File>Loc/Fate_Jeanne_Alter_Pre_Loc.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="JeanneAlterData"><Criteria>LeaderCriteria</Criteria><File>Data/Fate_Jeanne_Alter_Civilizations.xml</File><File>Data/Fate_Jeanne_Alter_Leaders.xml</File><File>UI/Fate_Jeanne_Alter_UI.xml</File><File>Data/Fate_Jeanne_Alter_Objects.xml</File></UpdateDatabase><UpdateIcons id="JeanneAlterIcon"><Criteria>LeaderCriteria</Criteria><File>UI/Fate_Jeanne_Alter_Icons.xml</File></UpdateIcons><UpdateArt id="JeanneAlterArt"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="JeanneAlterText"><Criteria>LeaderCriteria</Criteria><File>Loc/Fate_Jeanne_Alter_Pre_Loc.xml</File><File>Loc/Fate_Jeanne_Alter_InGame_Loc.xml</File></UpdateText><UpdateLogitechARX id="JeanneAlterARX"><Criteria>LeaderCriteria</Criteria><File>ARX/Civ_LEADER_FATE_JEANNE_ALTER.png</File></UpdateLogitechARX><AddGameplayScripts id="JeanneAlterScript"><Criteria>LeaderCriteria</Criteria><File>Data/JdAlter.lua</File><File>Data/JDalterCOnquer.lua</File></AddGameplayScripts></InGameActions>]]></InGameActionData>
+    <Homepage>https://steamcommunity.com/id/HaoJun0823/</Homepage>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Config" />
+    <Folder Include="Data" />
+    <Folder Include="Loc" />
+    <Folder Include="ARX" />
+    <Folder Include="UI" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ARX\Civ_LEADER_FATE_JEANNE_ALTER.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\Fate_Jeanne_Alter_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Fate_Jeanne_Alter_Civilizations.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Fate_Jeanne_Alter_Leaders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Fate_Jeanne_Alter_Objects.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\JdAlter.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\JDalterCOnquer.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Loc\Fate_Jeanne_Alter_Mod_Desc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Loc\Fate_Jeanne_Alter_InGame_Loc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Loc\Fate_Jeanne_Alter_Pre_Loc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UI\Fate_Jeanne_Alter_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UI\Fate_Jeanne_Alter_UI.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

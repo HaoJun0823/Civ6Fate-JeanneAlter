@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_Objects -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 2:34:21 PM -->
+<GameData>
+	<Types>
+
+		<Row Type="DISTRICT_EXECUTION_GROUND" Kind="KIND_DISTRICT"/>
+		
+		<Row Type="UNIT_FGO_JEANNE_ALTER_HUNTER" Kind="KIND_UNIT"/> <!-- 狩猎者 -->
+		<Row Type="UNIT_FGO_JEANNE_ALTER_INTRUDER" Kind="KIND_UNIT"/> <!-- 干扰者 -->
+		<Row Type="UNIT_FGO_JEANNE_ALTER_DESTROYER" Kind="KIND_UNIT"/> <!-- 破坏者 -->
+
+		<Row Type="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" Kind="KIND_BUILDING"/>
+		
+	</Types>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" ReplacesBuildingType="BUILDING_MONUMENT"/>
+	</BuildingReplaces>
+
+
+	<Buildings>
+
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" Name="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="300" AdvisorType="ADVISOR_CULTURE" Housing="1" Entertainment="1" MaxPlayerInstances="1"   TraitType="TRAIT_FATE_JEANNE_ALTER_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" DefenseModifier="12"/>
+
+	</Buildings>
+
+	<Building_YieldChanges>
+
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" YieldType="YIELD_CULTURE" YieldChange="9"/>
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" YieldType="YIELD_GOLD" YieldChange="9"/>
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" YieldType="YIELD_SCIENCE" YieldChange="9"/>
+		<!--
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" YieldType="YIELD_PRODUCTION" YieldChange="20"/>
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" YieldType="YIELD_FOOD" YieldChange="20"/>
+		-->
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" YieldType="YIELD_FAITH" YieldChange="9"/>
+		
+	</Building_YieldChanges>
+
+	<BuildingModifiers>
+
+		<Row>
+			<BuildingType>BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</BuildingType>
+			<ModifierId>PALACE_ADJUST_GARRISON_STRENGTH</ModifierId>
+		</Row>
+		
+	</BuildingModifiers>
+
+	<Building_GreatWorks>
+
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" GreatWorkSlotType="GREATWORKSLOT_PALACE" NumSlots="5" NonUniquePersonYield="1" NonUniquePersonTourism="1"/>
+		
+	</Building_GreatWorks>
+
+
+	<Building_GreatPersonPoints>
+
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" GreatPersonClassType="GREAT_PERSON_CLASS_ADMIRAL" PointsPerTurn="3" />
+		<Row BuildingType="BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="3" />
+		
+	</Building_GreatPersonPoints>
+
+	<UnitAiInfos>
+		
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_HUNTER" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_HUNTER" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_HUNTER" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_HUNTER" AiType="UNITTYPE_LAND_COMBAT"/>	
+		
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_INTRUDER" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_INTRUDER" AiType="UNITTYPE_RANGED"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_INTRUDER" AiType="UNITTYPE_LAND_COMBAT"/>
+		
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_DESTROYER" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_DESTROYER" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_DESTROYER" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_DESTROYER" AiType="UNITTYPE_LAND_COMBAT"/>
+	
+	</UnitAiInfos>
+
+	<UnitReplaces>
+		
+			<Row CivUniqueUnitType="UNIT_FGO_JEANNE_ALTER_HUNTER" ReplacesUnitType="UNIT_SWORDSMAN"/>
+			<Row CivUniqueUnitType="UNIT_FGO_JEANNE_ALTER_INTRUDER" ReplacesUnitType="UNIT_ARCHER"/>
+			<Row CivUniqueUnitType="UNIT_FGO_JEANNE_ALTER_DESTROYER" ReplacesUnitType="UNIT_SPEARMAN"/>
+	
+	</UnitReplaces>
+	<TypeTags>
+		
+		<Row Type="UNIT_FGO_JEANNE_ALTER_HUNTER" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_FGO_JEANNE_ALTER_INTRUDER" Tag="CLASS_RANGED"/>
+		<Row Type="UNIT_FGO_JEANNE_ALTER_DESTROYER" Tag="CLASS_ANTI_CAVALRY"/>
+	
+	</TypeTags>
+
+	<Units>
+
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_INTRUDER" Cost="75" Maintenance="1" BaseMoves="2" BaseSightRange="4" ZoneOfControl="false" Domain="DOMAIN_LAND" Combat="20" RangedCombat="40" Range="4" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_RANGED" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME" Description="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION" PurchaseYield="YIELD_FAITH" MandatoryObsoleteTech="TECH_BALLISTICS" PrereqTech="TECH_ARCHERY" TraitType="TRAIT_FATE_JEANNE_ALTER_UNIT_FGO_JEANNE_ALTER_INTRUDER"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_HUNTER" Cost="120" Maintenance="2" BaseMoves="4" BaseSightRange="6" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="50" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME" Description="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION" PurchaseYield="YIELD_FAITH" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" PrereqTech="TECH_IRON_WORKING" TraitType="TRAIT_FATE_JEANNE_ALTER_UNIT_FGO_JEANNE_ALTER_HUNTER"/>
+		<Row UnitType="UNIT_FGO_JEANNE_ALTER_DESTROYER" Cost="90" Maintenance="1" BaseMoves="3" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="75" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_ANTI_CAVALRY" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME" Description="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION" PurchaseYield="YIELD_FAITH" MandatoryObsoleteTech="TECH_METAL_CASTING" PrereqTech="TECH_BRONZE_WORKING" TraitType="TRAIT_FATE_JEANNE_ALTER_UNIT_FGO_JEANNE_ALTER_DESTROYER"/>
+
+
+	</Units>
+
+	<DistrictReplaces>
+
+		<Row CivUniqueDistrictType="DISTRICT_EXECUTION_GROUND" ReplacesDistrictType="DISTRICT_HOLY_SITE"/>
+		
+	</DistrictReplaces>
+
+	<Districts>
+
+		<Row DistrictType="DISTRICT_EXECUTION_GROUND" Name="LOC_DISTRICT_EXECUTION_GROUND_NAME" Description="LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION" PlunderType="PLUNDER_FAITH" PlunderAmount="25" AdvisorType="ADVISOR_RELIGIOUS" Cost="108" HitPoints="200" CanAttack="true"  CostProgressionModel="NO_COST_PROGRESSION" CostProgressionParam1="0" Maintenance="6" RequiresPlacement="true" RequiresPopulation="false" AllowsHolyCity="false" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="true" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Appeal="1" CityStrengthModifier="12" TraitType="TRAIT_FATE_JEANNE_ALTER_EXECUTION_GROUND" CaptureRemovesDistrict="true" CitizenSlots="9" />
+		
+		
+	</Districts>
+
+	<District_GreatPersonPoints>
+
+		<Row DistrictType="DISTRICT_EXECUTION_GROUND" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="4"/>
+		<Row DistrictType="DISTRICT_EXECUTION_GROUND" GreatPersonClassType="GREAT_PERSON_CLASS_ADMIRAL" PointsPerTurn="4"/>
+		
+	</District_GreatPersonPoints>
+
+	<District_CitizenYieldChanges>
+
+		<Row DistrictType="DISTRICT_EXECUTION_GROUND" YieldType="YIELD_FOOD" YieldChange="3"/>
+		<Row DistrictType="DISTRICT_EXECUTION_GROUND" YieldType="YIELD_FAITH" YieldChange="3"/>
+		
+	</District_CitizenYieldChanges>
+	
+</GameData>

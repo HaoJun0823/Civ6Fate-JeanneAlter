@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_UI -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 1:22:06 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_JEANNE_ALTER_PRIMARY</Type>
+			<Color>255,0,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FATE_JEANNE_ALTER_SECONDARY</Type>
+			<Color>0,0,0,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FATE_JEANNE_ALTER</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FATE_JEANNE_ALTER_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FATE_JEANNE_ALTER_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_DARK_RED_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FATE_JEANNE_ALTER" ForegroundImage="LEADER_FATE_JEANNE_ALTER_NEUTRAL_2" BackgroundImage="LEADER_FATE_JEANNE_ALTER_BACKGROUND_LOAD" PlayDawnOfManAudio="1"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FATE_JEANNE_ALTER" BackgroundImage="LEADER_FATE_JEANNE_ALTER_BACKGROUND"/>
+	</DiplomacyInfo>
+
+	<MomentIllustrations>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_EXECUTION_GROUND" Texture="Moment_Fire.dds"/>
+	</MomentIllustrations>
+
+</GameData>

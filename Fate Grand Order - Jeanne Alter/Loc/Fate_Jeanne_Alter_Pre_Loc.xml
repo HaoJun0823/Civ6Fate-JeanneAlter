@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_Pre_Loc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 5:47:50 PM -->
+<GameData>
+
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_NAME" Language="zh_Hans_CN">
+			<Text>贞德（Alter）</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_NAME" Language="zh_Hans_CN">
+			<Text>咆哮吧！吾之愤怒</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>没有大音乐家，大作家，大艺术家和大预言家。[NEWLINE]所有军队不需要维护，没有厌战。</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_NAME" Language="zh_Hans_CN">
+			<Text>龙之魔女</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_NAME" Language="zh_Hans_CN">
+			<Text>邪龙百年战争</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_DESCRPTION" Language="zh_Hans_CN">
+			<Text>一支神秘的部队正在蠢蠢欲动……[NEWLINE]当你占领城市后，会得到大量加成。</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_EXECUTION_GROUND_NAME" Language="zh_Hans_CN">
+			<Text>刑场</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代原版的圣地，当单位战斗时，对方生命值会根据你刑场的数量进行处刑，如果处刑通过该单位会被秒杀。（刑场数量越多处刑几率增长越缓慢）</Text>
+		</Row>
+
+	</LocalizedText>
+
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_NAME" Language="zh_Hant_HK">
+			<Text>貞德（Alter）</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_NAME" Language="zh_Hant_HK">
+			<Text>咆哮吧！吾之憤怒</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>沒有大音樂家，大作家，大藝術家和大預言家。[NEWLINE]所有軍隊不需要維護，沒有厭戰。</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_NAME" Language="zh_Hant_HK">
+			<Text>龍之魔女</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_NAME" Language="zh_Hant_HK">
+			<Text>邪龍百年戰爭</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_DESCRPTION" Language="zh_Hant_HK">
+			<Text>壹支神秘的部隊正在蠢蠢欲動……[NEWLINE]當你佔領城市後，會得到大量加成。</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_EXECUTION_GROUND_NAME" Language="zh_Hant_HK">
+			<Text>刑場</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>替代原版的聖地，當單位戰鬥時，對方生命值會根據你刑場的數量進行處刑，如果處刑通過該單位會被秒殺。 （刑場數量越多處刑機率增長越緩慢）</Text>
+		</Row>
+
+	</LocalizedText>
+
+
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_NAME" Language="en_US">
+			<Text>Jeanne d'Arc(Alter)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_NAME" Language="en_US">
+			<Text>Le Grondement de la Haine</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Instead of the original sacred place, when the unit fights, the opponent's health will be sentenced according to the number of your execution, if the execution of the unit will be spiked. (The more the number of executions, the slower the probability of execution) </Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_NAME" Language="en_US">
+			<Text>Dragon Witch</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_NAME" Language="en_US">
+			<Text>Evil dragon hundred years of war</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_DESCRPTION" Language="en_US">
+			<Text>A mysterious army is rushing……[NEWLINE]When you occupy the city, you get a lot of bonuses.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_EXECUTION_GROUND_NAME" Language="en_US">
+			<Text>execution ground</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION" Language="en_US">
+			<Text>Instead of the original sacred place, when the unit fights, the opponent's health is lower than the number*2 of your execution, the unit will be spiked.(upper limit 30)</Text>
+		</Row>
+
+	</LocalizedText>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME" Language="en_US">
+			<Text>Intruder</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION" Language="en_US">
+			<Text>Instead of the original swordsman, it has stronger mobility and attack power and does not require strategic resources.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME" Language="zh_Hans_CN">
+			<Text>干扰者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代原版的弓箭手，拥有更远的射程和视野。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME" Language="zh_Hant_HK">
+			<Text>干擾者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>替代原版的弓箭手，擁有更遠的射程和視野。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME" Language="en_US">
+			<Text>Hunter</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION" Language="en_US">
+			<Text>Instead of the original swordsman, it has stronger mobility and attack power and does not require strategic resources.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME" Language="zh_Hans_CN">
+			<Text>追猎者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代原版的剑士，拥有更强的移动力和攻击力，不需要战略资源。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME" Language="zh_Hant_HK">
+			<Text>追獵者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>替代原版的劍士，擁有更強的移動力和攻擊力，不需要戰略資源。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME" Language="en_US">
+			<Text>Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION" Language="en_US">
+			<Text>It replaces the original gunman and has a very powerful destructive power.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME" Language="zh_Hans_CN">
+			<Text>破坏者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代原版的枪兵，拥有十分强大的破坏力。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME" Language="zh_Hant_HK">
+			<Text>破壞者</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>替代原版的槍兵，擁有十分強大的破壞力。</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME" Language="en_US">
+			<Text>Dragon Castle</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME" Language="zh_Hans_CN">
+			<Text>魔龙城堡</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME" Language="zh_Hant_HK">
+			<Text>魔龍城堡</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_DESC" Language="en_US">
+			<Text>"revenge!"</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_DESC" Language="zh_Hans_CN">
+			<Text>“复仇！”</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_DESC" Language="zh_Hant_HK">
+			<Text>“復仇！”</Text>
+		</Row>
+
+
+
+
+	</LocalizedText>
+
+</GameData>

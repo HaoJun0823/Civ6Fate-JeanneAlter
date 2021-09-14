@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_Mod_Desc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 7:19:27 PM -->
+<GameData>
+
+
+	<LocalizedText>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_NAME" Language="en_US">
+			<Text>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_AUTHOR" Language="en_US">
+			<Text>Randerion,Entarogan</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_THANKS" Language="en_US">
+			<Text>All players, modders and TYPE-MOON.</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_TEASER" Language="en_US">
+			<Text>Die!</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_DESCRIPTION" Language="en_US">
+			<Text>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</Text>
+		</Row>
+
+	</LocalizedText>
+	<LocalizedText>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_NAME" Language="zh_Hans_CN">
+			<Text>[COLOR_FLOAT_CULTURE]Fate/Grand Order 贞德（Alter）[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_AUTHOR" Language="zh_Hans_CN">
+			<Text>兰德里奥（Randerion），Entarogan</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_THANKS" Language="zh_Hans_CN">
+			<Text>所有玩家，模组制作者以及型月。</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_TEASER" Language="zh_Hans_CN">
+			<Text>唔姆！</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>支持语言：英语，简体中文，繁体中文。[NEWLINE][NEWLINE]提示：这个角色来自于 TYPE-MOON 旗下的 Fate/Grand Order。[NEWLINE][NEWLINE]如果你发现了任何Bug，请及时告知于我，我会修复它，感谢！</Text>
+		</Row>
+
+	</LocalizedText>
+	<LocalizedText>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_NAME" Language="zh_Hant_HK">
+			<Text>[COLOR_FLOAT_CULTURE]Fate/Grand Order 貞德（Alter）[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_AUTHOR" Language="zh_Hant_HK">
+			<Text>蘭德里奧（Randerion），Entarogan</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_THANKS" Language="zh_Hant_HK">
+			<Text>所有玩家，模組製作者以及型月。</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_TEASER" Language="zh_Hant_HK">
+			<Text>唔姆！</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>支持語言：英語，簡體中文，繁體中文。[NEWLINE][NEWLINE]提示：這個角色來自於 TYPE-MOON 旗下的 Fate/Grand Order。[NEWLINE][NEWLINE]如果你發現了任何Bug，請及時告知於我，我會修復它，感謝！ </Text>
+		</Row>
+
+	</LocalizedText>
+
+	
+	<!--
+	<LocalizedText>
+		<Text id="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_NAME">
+			<en_US>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</en_US>
+            <de_DE>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</de_DE>
+            <es_ES>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</es_ES>
+            <fr_FR>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</fr_FR>
+            <it_IT>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</it_IT>
+            <ja_JP>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</ja_JP>
+            <ko_KR>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</ko_KR>
+            <pl_PL>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</pl_PL>
+            <pt_BR>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</pt_BR>
+            <ru_RU>[COLOR_FLOAT_CULTURE]Fate/Grand Order Jeanne Alter[ENDCOLOR]</ru_RU>
+			<zh_Hans_CN>[COLOR_FLOAT_CULTURE]Fate/Grand Order 贞德（Alter）[ENDCOLOR]</zh_Hans_CN>
+			<zh_Hant_HK>>[COLOR_FLOAT_CULTURE]Fate/Grand Order 貞德（Alter）[ENDCOLOR]</zh_Hant_HK>
+		</Text>
+		
+		
+		
+		<Text id="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_AUTHOR">
+			<en_US>Randerion,Entarogan</en_US>
+            <de_DE>Randerion,Entarogan</de_DE>
+            <es_ES>Randerion,Entarogan</es_ES>
+            <fr_FR>Randerion,Entarogan</fr_FR>
+            <it_IT>Randerion,Entarogan</it_IT>
+            <ja_JP>Randerion,Entarogan</ja_JP>
+            <ko_KR>Randerion,Entarogan</ko_KR>
+            <pl_PL>Randerion,Entarogan</pl_PL>
+            <pt_BR>Randerion,Entarogan</pt_BR>
+            <ru_RU>Randerion,Entarogan</ru_RU>
+			<zh_Hans_CN>兰德里奥（Randerion），Entarogan</zh_Hans_CN>
+			<zh_Hant_HK>蘭德里奧（Randerion），Entarogan</zh_Hant_HK>
+		</Text>
+		
+		
+		
+		<Text id="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_THANKS">
+			<en_US>All players, modders and TYPE-MOON.</en_US>
+            <de_DE>All players, modders and TYPE-MOON.</de_DE>
+            <es_ES>All players, modders and TYPE-MOON.</es_ES>
+            <fr_FR>All players, modders and TYPE-MOON.</fr_FR>
+            <it_IT>All players, modders and TYPE-MOON.</it_IT>
+            <ja_JP>All players, modders and TYPE-MOON.</ja_JP>
+            <ko_KR>All players, modders and TYPE-MOON.</ko_KR>
+            <pl_PL>All players, modders and TYPE-MOON.</pl_PL>
+            <pt_BR>All players, modders and TYPE-MOON.</pt_BR>
+            <ru_RU>All players, modders and TYPE-MOON.</ru_RU>
+			<zh_Hans_CN>所有玩家，模组制作者以及型月。</zh_Hans_CN>
+			<zh_Hant_HK>所有玩家，模組製作者以及型月。</zh_Hant_HK>
+		</Text>
+		
+			<Text id="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_TEASER">
+			<en_US>Die!</en_US>
+            <de_DE>Die!</de_DE>
+            <es_ES>Die!</es_ES>
+            <fr_FR>Die!</fr_FR>
+            <it_IT>Die!</it_IT>
+            <ja_JP>Die!</ja_JP>
+            <ko_KR>Die!</ko_KR>
+            <pl_PL>Die!</pl_PL>
+            <pt_BR>Die!</pt_BR>
+            <ru_RU>Die!</ru_RU>
+			<zh_Hans_CN>死吧！</zh_Hans_CN>
+			<zh_Hant_HK>死吧！</zh_Hant_HK>
+		</Text>	
+		
+
+		<Text id="LOC_CIVILIZATION_FATE_JEANNE_ALTER_MOD_SPECIAL_DESCRIPTION">
+			<en_US>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</en_US>
+            <de_DE>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</de_DE>
+            <es_ES>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</es_ES>
+            <fr_FR>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</fr_FR>
+            <it_IT>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</it_IT>
+            <ja_JP>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</ja_JP>
+            <ko_KR>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</ko_KR>
+            <pl_PL>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</pl_PL>
+            <pt_BR>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</pt_BR>
+            <ru_RU>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Grand Order.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</ru_RU>
+			<zh_Hans_CN>支持语言：英语，简体中文，繁体中文。[NEWLINE][NEWLINE]提示：这个角色来自于 TYPE-MOON 旗下的 Fate/Grand Order。[NEWLINE][NEWLINE]如果你发现了任何Bug，请及时告知于我，我会修复它，感谢！</zh_Hans_CN>
+			<zh_Hant_HK>支持語言：英語，簡體中文，繁體中文。[NEWLINE][NEWLINE]提示：這個角色來自於 TYPE-MOON 旗下的 Fate/Grand Order。[NEWLINE][NEWLINE]如果你發現了任何Bug，請及時告知於我，我會修復它，感謝！</zh_Hant_HK>
+		</Text>		
+		
+  	</LocalizedText>
+	-->
+
+</GameData>

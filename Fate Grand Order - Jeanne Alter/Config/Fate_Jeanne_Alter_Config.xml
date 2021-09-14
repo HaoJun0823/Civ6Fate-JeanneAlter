@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Jeanne_Alter_Config -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 12/23/2018 1:37:57 PM -->
+<GameData>
+
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+
+			<!-- Config Text -->
+			<CivilizationName>LOC_CIVILIZATION_FATE_JEANNE_ALTER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FATE_JEANNE_ALTER</CivilizationIcon>
+
+
+			<!-- Mod Text -->
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_DESCRPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FATE_JEANNE_ALTER</CivilizationAbilityIcon>
+
+
+			<!-- Config Text -->
+			<LeaderName>LOC_LEADER_FATE_JEANNE_ALTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FATE_JEANNE_ALTER</LeaderIcon>
+
+			<!-- Config Text-->
+			<LeaderAbilityName>LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FATE_JEANNE_ALTER</LeaderAbilityIcon>
+
+
+			<Portrait>LEADER_FATE_JEANNE_ALTER_NEUTRAL</Portrait>
+
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>DISTRICT_EXECUTION_GROUND</Type>
+			<Name>LOC_DISTRICT_EXECUTION_GROUND_NAME</Name>
+			<Description>LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION</Description>
+			<Icon>ICON_DISTRICT_EXECUTION_GROUND</Icon>
+			<SortIndex>10</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_HUNTER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_HUNTER</Icon>
+			<SortIndex>20</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_INTRUDER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_INTRUDER</Icon>
+			<SortIndex>30</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_DESTROYER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_DESTROYER</Icon>
+			<SortIndex>40</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</Type>
+			<Name>LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME</Name>
+			<Description>LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_DESC</Description>
+			<Icon>ICON_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</Icon>
+			<SortIndex>50</SortIndex>
+		</Row>
+	</PlayerItems>
+
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+
+			<!-- Config Text -->
+			<CivilizationName>LOC_CIVILIZATION_FATE_JEANNE_ALTER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FATE_JEANNE_ALTER</CivilizationIcon>
+
+
+			<!-- Mod Text -->
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_DESCRPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FATE_JEANNE_ALTER</CivilizationAbilityIcon>
+
+
+			<!-- Config Text -->
+			<LeaderName>LOC_LEADER_FATE_JEANNE_ALTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FATE_JEANNE_ALTER</LeaderIcon>
+
+			<!-- Config Text-->
+			<LeaderAbilityName>LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FATE_JEANNE_ALTER</LeaderAbilityIcon>
+
+
+			<Portrait>LEADER_FATE_JEANNE_ALTER_NEUTRAL</Portrait>
+
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>DISTRICT_EXECUTION_GROUND</Type>
+			<Name>LOC_DISTRICT_EXECUTION_GROUND_NAME</Name>
+			<Description>LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION</Description>
+			<Icon>ICON_DISTRICT_EXECUTION_GROUND</Icon>
+			<SortIndex>10</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_HUNTER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_HUNTER</Icon>
+			<SortIndex>20</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_INTRUDER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_INTRUDER</Icon>
+			<SortIndex>30</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_DESTROYER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_DESTROYER</Icon>
+			<SortIndex>40</SortIndex>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</Type>
+			<Name>LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME</Name>
+			<Description>LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_DESC</Description>
+			<Icon>ICON_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</Icon>
+			<SortIndex>50</SortIndex>
+		</Row>
+	</PlayerItems>
+
+
+
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+
+			<!-- Config Text -->
+			<CivilizationName>LOC_CIVILIZATION_FATE_JEANNE_ALTER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FATE_JEANNE_ALTER</CivilizationIcon>
+
+
+			<!-- Mod Text -->
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FATE_JEANNE_ALTER_ABILITY_DESCRPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FATE_JEANNE_ALTER</CivilizationAbilityIcon>
+
+
+			<!-- Config Text -->
+			<LeaderName>LOC_LEADER_FATE_JEANNE_ALTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FATE_JEANNE_ALTER</LeaderIcon>
+
+			<!-- Config Text-->
+			<LeaderAbilityName>LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_LEADER_FATE_JEANNE_ALTER_ABILITY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FATE_JEANNE_ALTER</LeaderAbilityIcon>
+
+
+			<Portrait>LEADER_FATE_JEANNE_ALTER_NEUTRAL</Portrait>
+
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>DISTRICT_EXECUTION_GROUND</Type>
+			<Name>LOC_DISTRICT_EXECUTION_GROUND_NAME</Name>
+			<Description>LOC_DISTRICT_EXECUTION_GROUND_DESCRIPTION</Description>
+			<Icon>ICON_DISTRICT_EXECUTION_GROUND</Icon>
+			<SortIndex>10</SortIndex>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_HUNTER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_HUNTER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_HUNTER</Icon>
+			<SortIndex>20</SortIndex>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_INTRUDER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_INTRUDER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_INTRUDER</Icon>
+			<SortIndex>30</SortIndex>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>UNIT_FGO_JEANNE_ALTER_DESTROYER</Type>
+			<Name>LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_NAME</Name>
+			<Description>LOC_UNIT_FGO_JEANNE_ALTER_DESTROYER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_FGO_JEANNE_ALTER_DESTROYER</Icon>
+			<SortIndex>40</SortIndex>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_FATE_JEANNE_ALTER</CivilizationType>
+			<LeaderType>LEADER_FATE_JEANNE_ALTER</LeaderType>
+			<Type>BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</Type>
+			<Name>LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_NAME</Name>
+			<Description>LOC_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE_DESC</Description>
+			<Icon>ICON_BUILDING_FGO_JEANNE_ALTER_DRAGON_PALACE</Icon>
+			<SortIndex>50</SortIndex>
+		</Row>
+	</PlayerItems>
+
+
+</GameData>
